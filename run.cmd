@@ -1,0 +1,1 @@
+java -jar "C:\dev\codingame\Tools\cg-brutaltester\target\cg-brutaltester-1.0.0.jar" -r "java -jar C:\dev\codingame\05-Contests\Fall2020\ref\FallChallenge2020\target\fall-2020-1.0-SNAPSHOT.jar" -p1 "C:\dev\codingame\05-Contests\Fall2020\bots\learning_3\Fall2020.exe" -p2 "C:\dev\codingame\05-Contests\Fall2020\bots\learning_3_75k\Fall2020.exe" -t 4 -n 100 -l "./logs/"
